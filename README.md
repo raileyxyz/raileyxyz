@@ -35,7 +35,7 @@
 </p>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,vscode,github,git&theme=dark" />
 </p>
 
 <br>
