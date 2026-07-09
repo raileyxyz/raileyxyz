@@ -42,7 +42,7 @@ After setting up GitHub Actions, uncomment the image below.
 -->
 
 <p align="center">
-  <img src="https://github.com/raileyxyz/raileyxyz/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation">
+  <img alt="GitHub Snake Dark" src="https://github.com/raileyxyz/raileyxyz/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
 </p>
 
 <!--
