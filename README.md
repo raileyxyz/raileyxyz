@@ -41,14 +41,6 @@
 
 <br>
 
-## 📈 GitHub Activity Graph
-
-<!-- Replace YOUR_USERNAME with your GitHub username -->
-
-[![Rai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raileyxyz&theme=github-dark&hide_border=true&radius=10)](https://github.com/raileyxyz)
-
-<br>
-
 ## 🐍 Contribution Snake
 
 <!--
