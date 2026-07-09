@@ -31,12 +31,11 @@
 # 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,laravel,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,vite,c++,java,php,laravel,mysql&theme=dark" />
 </p>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,vite,npm&theme=dark" />
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 <br>
