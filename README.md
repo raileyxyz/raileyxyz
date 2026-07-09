@@ -12,8 +12,6 @@
 - 🚀 Currently learning <strong>Laravel</strong> and <strong>React</strong>
 - ⚡ Passionate about building modern, responsive, and user-friendly web applications.
 
-<br>
-
 ## 🌐 Socials
 
 <p align="left">
@@ -26,8 +24,6 @@
 </a>
 </p>
 
-<br>
-
 ## 💻 Tech Stack
 
 <p align="left">
@@ -37,8 +33,6 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,vscode,github,git&theme=dark" />
 </p>
-
-<br>
 
 ## 🐍 Contribution Snake
 
