@@ -30,11 +30,11 @@
 
 # 💻 Tech Stack
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,tailwind,react,vite&theme=dark" />
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,git,github,vscode&theme=dark" />
 </p>
 
