@@ -32,8 +32,6 @@
 <img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,vscode,github,git&theme=dark" />
 </p>
 
-## 🐍 Contribution Snake
-
 <!--
 Replace YOUR_USERNAME with your GitHub username.
 
@@ -52,11 +50,3 @@ Alternative (Light Theme)
 
 <img src="https://raw.githubusercontent.com/raileyxyz/raileyxyz/output/github-contribution-grid-snake.svg"/>
 -->
-
-<br>
-
----
-
-<p align="center">
-<i>Thanks for visiting my profile! ⭐</i>
-</p>
