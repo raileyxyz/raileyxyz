@@ -5,8 +5,6 @@
 
 <h1 align="left">Yo!, I'm Rai 👋</h1>
 
----
-
 - 🛜 Check out my <a href="https://your-portfolio.com">Personal Website</a>
 - 👨‍💻 Currently a <strong>3rd Year BSIT Student</strong>
 - 🚀 Currently learning <strong>Laravel</strong> and <strong>React</strong>
