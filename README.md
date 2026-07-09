@@ -1,16 +1,79 @@
-## Hi there 👋
+<!-- ========================================================= -->
+<!--                  GitHub Profile README                     -->
+<!--        Replace all placeholders with your own info         -->
+<!-- ========================================================= -->
+
+<h1 align="left">Yo!, I'm Rai 👋</h1>
+
+---
+
+- 🛜 Check out my <a href="https://your-portfolio.com">Personal Website</a>
+- 👨‍💻 Currently a <strong>3rd Year BSIT Student</strong>
+- 🚀 Currently learning <strong>Laravel</strong> and <strong>React</strong>
+- ⚡ Passionate about building modern, responsive, and user-friendly web applications.
+
+<br>
+
+## 🌐 Socials
+
+<p align="left">
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/yourusername">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+</p>
+
+<br>
+
+# 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,laravel,mysql,git,github,vscode&theme=dark" />
+</p>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,vite,npm&theme=dark" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+</p>
+
+<br>
+
+## 📈 GitHub Activity Graph
+
+<!-- Replace YOUR_USERNAME with your GitHub username -->
+
+[![Rai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raileyxyz&theme=github-dark&hide_border=true&radius=10)](https://github.com/raileyxyz)
+
+<br>
+
+## 🐍 Contribution Snake
 
 <!--
-**raileyxyz/raileyxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Replace YOUR_USERNAME with your GitHub username.
 
-Here are some ideas to get you started:
+Follow this guide to enable the snake animation:
+https://github.com/Platane/snk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+After setting up GitHub Actions, uncomment the image below.
 -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raileyxyz/raileyxyz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+<!--
+Alternative (Light Theme)
+
+<img src="https://raw.githubusercontent.com/raileyxyz/raileyxyz/output/github-contribution-grid-snake.svg"/>
+-->
+
+<br>
+
+---
+
+<p align="center">
+<i>Thanks for visiting my profile! ⭐</i>
+</p>
