@@ -28,7 +28,7 @@
 
 <br>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,tailwind,react,vite&theme=dark" />
