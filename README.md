@@ -3,7 +3,7 @@
 <!--        Replace all placeholders with your own info         -->
 <!-- ========================================================= -->
 
-<h1 align="left">Yo!, I'm Rai 👋</h1>
+<h1 align="left">Yoo!, I'm Rai 👋</h1>
 
 - 🛜 Check out my <a href="https://your-portfolio.com">Personal Website</a>
 - 👨‍💻 Currently a <strong>3rd Year BSIT Student</strong>
