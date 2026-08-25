@@ -5,7 +5,7 @@
 
 <h1 align="left">Yoo!, I'm Rai 👋</h1>
 
-- 🛜 Check out my <a href="https://your-portfolio.com">Personal Website</a>
+- 🛜 Check out my <a href="">Personal Website</a>
 - 👨‍💻 Currently a <strong>3rd Year BSIT Student</strong>
 - 🚀 Currently learning <strong>Laravel</strong> and <strong>React</strong>
 - ⚡ Passionate about building modern, responsive, and user-friendly web applications.
@@ -13,7 +13,7 @@
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://linkedin.com/in/yourusername">
+<a href="">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
