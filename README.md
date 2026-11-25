@@ -5,9 +5,9 @@
 
 <h1 align="left">Yoo!, I'm Rai 👋</h1>
 
-🛜 Check out my <a href="">Personal Website</a>
-👨‍💻 Currently a <strong>3rd Year BSIT Student</strong>
-🚀 Currently learning <strong>Laravel</strong> and <strong>React</strong>
+🛜 Check out my <a href="">Personal Website</a><br/>
+👨‍💻 Currently a <strong>3rd Year BSIT Student</strong><br/>
+🚀 Currently learning <strong>Laravel</strong> and <strong>React</strong><br/>
 ⚡ Passionate about building modern, responsive, and user-friendly web applications.
 
 ## 🌐 Socials
